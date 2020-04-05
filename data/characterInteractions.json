@@ -1,0 +1,2088 @@
+{"nodes": [
+  {
+    "id": "Esther Summerson"
+  },
+  {
+    "id": "Ada Clare"
+  },
+  {
+    "id": "Mr. Bucket"
+  },
+  {
+    "id": "Mr. George"
+  },
+  {
+    "id": "Mr. Jarndyce"
+  },
+  {
+    "id": "Sir Leicester Dedlock"
+  },
+  {
+    "id": "Mr. Guppy"
+  },
+  {
+    "id": "Mr. Snagsby"
+  },
+  {
+    "id": "Jo"
+  },
+  {
+    "id": "Mr. Tulkinghorn"
+  },
+  {
+    "id": "Lady Dedlock"
+  },
+  {
+    "id": "Richard Carstone"
+  },
+  {
+    "id": "Allan Woodcourt"
+  },
+  {
+    "id": "Charley"
+  },
+  {
+    "id": "Grandfather Smallweed"
+  },
+  {
+    "id": "Lawrence Boythorn"
+  },
+  {
+    "id": "Mr. Kengerook"
+  },
+  {
+    "id": "Mr. Bagnet"
+  },
+  {
+    "id": "Mr. Skimpole"
+  },
+  {
+    "id": "Mrs. Rachael/Mrs. Chadband"
+  },
+  {
+    "id": "Grandmother Smallweed"
+  },
+  {
+    "id": "Gridley"
+  },
+  {
+    "id": "Guster"
+  },
+  {
+    "id": "Hortense"
+  },
+  {
+    "id": "Jenny"
+  },
+  {
+    "id": "Jobling/Tony Weevle"
+  },
+  {
+    "id": "Miss Flite"
+  },
+  {
+    "id": "Mr. Kenge"
+  },
+  {
+    "id": "Mr. Vholes"
+  },
+  {
+    "id": "Mrs. Bagnet"
+  },
+  {
+    "id": "Mrs. Snagsby"
+  },
+  {
+    "id": "Mr. Jellyby"
+  },
+  {
+    "id": "Mrs. Jellyby"
+  },
+  {
+    "id": "Mrs. Rouncewell"
+  },
+  {
+    "id": "Rev Chadband"
+  },
+  {
+    "id": "Rosa"
+  },
+  {
+    "id": "Caddy Jellyby"
+  },
+  {
+    "id": "Judy Smallweed"
+  },
+  {
+    "id": "Malta Bagnet"
+  },
+  {
+    "id": "Quebec Bagnet"
+  },
+  {
+    "id": "Watt Rouncewell"
+  },
+  {
+    "id": "Woolwich Bagnet"
+  },
+  {
+    "id": "Liz"
+  },
+  {
+    "id": "Mr. Bayham Badger"
+  },
+  {
+    "id": "Mr. Rouncewell"
+  },
+  {
+    "id": "Mr. Turveydrop"
+  },
+  {
+    "id": "Mrs. Bayham Badger"
+  },
+  {
+    "id": "Mrs. Pardiggle"
+  },
+  {
+    "id": "Nemo"
+  },
+  {
+    "id": "Prince Turveydrop"
+  },
+  {
+    "id": "Arethusa Skimpole"
+  },
+  {
+    "id": "Coavinses/Neckett"
+  },
+  {
+    "id": "Kitty Skimpole"
+  },
+  {
+    "id": "Laura Skimpole"
+  },
+  {
+    "id": "Mr. Quale"
+  },
+  {
+    "id": "Mrs. Guppy"
+  },
+  {
+    "id": "Volumnia Dedlock"
+  },
+  {
+    "id": "Mrs. Skimpole"
+  },
+  {
+    "id": "Mrs. Woodcourt"
+  },
+  {
+    "id": "Peepy Jellyby"
+  },
+  {
+    "id": "Phil Squod"
+  },
+  {
+    "id": "Guppy"
+  },
+  {
+    "id": "Miss Barbary"
+  },
+  {
+    "id": "Miss Donny"
+  },
+  {
+    "id": "Mrs. Blinder"
+  },
+  {
+    "id": "Mrs. Bucket"
+  },
+  {
+    "id": "Young Smallweed"
+  },
+  {
+    "id": "Brickmaker"
+  },
+  {
+    "id": "Bucket"
+  },
+  {
+    "id": "John Jarndyce"
+  }
+],
+
+"links":[
+  {
+    "source": "Lady Dedlock",
+    "target": "Sir Leicester Dedlock",
+    "Chapter": 2,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Lady Dedlock",
+    "target": "Mr. Tulkinghorn",
+    "Chapter": 2,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Sir Leicester Dedlock",
+    "target": "Mr. Tulkinghorn",
+    "Chapter": 2,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Esther Summerson",
+    "target": "Miss Barbary",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Esther Summerson",
+    "target": "Mrs. Rachael/Mrs. Chadband",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Miss Barbary",
+    "target": "Mrs. Rachael/Mrs. Chadband",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Kenge",
+    "target": "Mrs. Rachael/Mrs. Chadband",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Esther Summerson",
+    "target": "Mr. Kenge",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Esther Summerson",
+    "target": "Miss Donny",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Miss Donny",
+    "target": "Mr. Kenge",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Kenge",
+    "target": "Ada Clare",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Esther Summerson",
+    "target": "Ada Clare",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Esther Summerson",
+    "target": "Richard Carstone",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Kenge",
+    "target": "Richard Carstone",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Esther Summerson",
+    "target": "Miss Flite",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Ada Clare",
+    "target": "Miss Flite",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Richard Carstone",
+    "target": "Miss Flite",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Kenge",
+    "target": "Miss Flite",
+    "Chapter": 3,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Kenge",
+    "target": "Mrs. Jellyby",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Guppy",
+    "target": "Richard Carstone",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Guppy",
+    "target": "Esther Summerson",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Guppy",
+    "target": "Ada Clare",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Guppy",
+    "target": "Mrs. Jellyby",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Jellyby",
+    "target": "Peepy Jellyby",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Peepy Jellyby",
+    "target": "Esther Summerson",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Peepy Jellyby",
+    "target": "Ada Clare",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Caddy Jellyby",
+    "target": "Mrs. Jellyby",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Caddy Jellyby",
+    "target": "Esther Summerson",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Caddy Jellyby",
+    "target": "Ada Clare",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Jellyby",
+    "target": "Esther Summerson",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Jellyby",
+    "target": "Richard Carstone",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Jellyby",
+    "target": "Ada Clare",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Jellyby",
+    "target": "Mrs. Jellyby",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Jellyby",
+    "target": "Mr. Quale",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Quale",
+    "target": "Esther Summerson",
+    "Chapter": 4,
+    "Narrator": "E"
+  },
+  {
+    "source": "Miss Flite",
+    "target": "Mr. Kengerook",
+    "Chapter": 5,
+    "Narrator": "E"
+  },
+  {
+    "source": "Esther Summerson",
+    "target": "Mr. Kengerook",
+    "Chapter": 5,
+    "Narrator": "E"
+  },
+  {
+    "source": "Ada Clare",
+    "target": "Mr. Kengerook",
+    "Chapter": 5,
+    "Narrator": "E"
+  },
+  {
+    "source": "Richard Carstone",
+    "target": "Mr. Kengerook",
+    "Chapter": 5,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Jarndyce",
+    "target": "Esther Summerson",
+    "Chapter": 6,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Jarndyce",
+    "target": "Ada Clare",
+    "Chapter": 6,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Jarndyce",
+    "target": "Richard Carstone",
+    "Chapter": 6,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Jarndyce",
+    "target": "Mr. Skimpole",
+    "Chapter": 6,
+    "Narrator": "E"
+  },
+  {
+    "source": "Esther Summerson",
+    "target": "Mr. Skimpole",
+    "Chapter": 6,
+    "Narrator": "E"
+  },
+  {
+    "source": "Ada Clare",
+    "target": "Mr. Skimpole",
+    "Chapter": 6,
+    "Narrator": "E"
+  },
+  {
+    "source": "Richard Carstone",
+    "target": "Mr. Skimpole",
+    "Chapter": 6,
+    "Narrator": "E"
+  },
+  {
+    "source": "Coavinses/Neckett",
+    "target": "Mr. Skimpole",
+    "Chapter": 6,
+    "Narrator": "E"
+  },
+  {
+    "source": "Coavinses/Neckett",
+    "target": "Richard Carstone",
+    "Chapter": 6,
+    "Narrator": "E"
+  },
+  {
+    "source": "Coavinses/Neckett",
+    "target": "Esther Summerson",
+    "Chapter": 6,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Rouncewell",
+    "target": "Sir Leicester Dedlock",
+    "Chapter": 7,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mrs. Rouncewell",
+    "target": "Watt Rouncewell",
+    "Chapter": 7,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mrs. Rouncewell",
+    "target": "Rosa",
+    "Chapter": 7,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Watt Rouncewell",
+    "target": "Rosa",
+    "Chapter": 7,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Guppy",
+    "target": "Mrs. Rouncewell",
+    "Chapter": 7,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Guppy",
+    "target": "Rosa",
+    "Chapter": 7,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mrs. Pardiggle",
+    "target": "Esther Summerson",
+    "Chapter": 8,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Pardiggle",
+    "target": "Ada Clare",
+    "Chapter": 8,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Pardiggle",
+    "target": "Brickmaker",
+    "Chapter": 8,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Pardiggle",
+    "target": "Jenny",
+    "Chapter": 8,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Pardiggle",
+    "target": "Liz",
+    "Chapter": 8,
+    "Narrator": "E"
+  },
+  {
+    "source": "Jenny",
+    "target": "Ada Clare",
+    "Chapter": 8,
+    "Narrator": "E"
+  },
+  {
+    "source": "Jenny",
+    "target": "Esther Summerson",
+    "Chapter": 8,
+    "Narrator": "E"
+  },
+  {
+    "source": "Liz",
+    "target": "Ada Clare",
+    "Chapter": 8,
+    "Narrator": "E"
+  },
+  {
+    "source": "Liz",
+    "target": "Esther Summerson",
+    "Chapter": 8,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lawrence Boythorn",
+    "target": "Mr. Jarndyce",
+    "Chapter": 9,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lawrence Boythorn",
+    "target": "Ada Clare",
+    "Chapter": 9,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lawrence Boythorn",
+    "target": "Esther Summerson",
+    "Chapter": 9,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lawrence Boythorn",
+    "target": "Richard Carstone",
+    "Chapter": 9,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lawrence Boythorn",
+    "target": "Mr. Guppy",
+    "Chapter": 9,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Snagsby",
+    "target": "Guster",
+    "Chapter": 10,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Snagsby",
+    "target": "Mrs. Snagsby",
+    "Chapter": 10,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Guster",
+    "target": "Mrs. Snagsby",
+    "Chapter": 10,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Guster",
+    "target": "Mr. Tulkinghorn",
+    "Chapter": 10,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Snagsby",
+    "target": "Mr. Tulkinghorn",
+    "Chapter": 10,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Kengerook",
+    "target": "Mr. Tulkinghorn",
+    "Chapter": 10,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Kengerook",
+    "target": "Mr. Snagsby",
+    "Chapter": 10,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Nemo",
+    "target": "Mr. Snagsby",
+    "Chapter": 10,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Nemo",
+    "target": "Mr. Tulkinghorn",
+    "Chapter": 10,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Nemo",
+    "target": "Mr. Kengerook",
+    "Chapter": 10,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Tulkinghorn",
+    "target": "Miss Flite",
+    "Chapter": 11,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Jo",
+    "target": "Allan Woodcourt",
+    "Chapter": 11,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Jo",
+    "target": "Mr. Tulkinghorn",
+    "Chapter": 11,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Jo",
+    "target": "Mr. Snagsby",
+    "Chapter": 11,
+    "Narrator": "3pn"
+  },
+  {
+    "source": "Jo",
+    "target": "Nemo",
+    "Chapter": 11,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Lady Dedlock",
+    "target": "Mrs. Rouncewell",
+    "Chapter": 12,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Watt Rouncewell",
+    "target": "Lady Dedlock",
+    "Chapter": 12,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Watt Rouncewell",
+    "target": "Sir Leicester Dedlock",
+    "Chapter": 12,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Hortense",
+    "target": "Rosa",
+    "Chapter": 12,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Hortense",
+    "target": "Lady Dedlock",
+    "Chapter": 12,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bayham Badger",
+    "target": "Mr. Jarndyce",
+    "Chapter": 13,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Bayham Badger",
+    "target": "Mrs. Bayham Badger",
+    "Chapter": 13,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Bayham Badger",
+    "target": "Esther Summerson",
+    "Chapter": 13,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Bayham Badger",
+    "target": "Ada Clare",
+    "Chapter": 13,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Bayham Badger",
+    "target": "Richard Carstone",
+    "Chapter": 13,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Bayham Badger",
+    "target": "Esther Summerson",
+    "Chapter": 13,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Bayham Badger",
+    "target": "Ada Clare",
+    "Chapter": 13,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Bayham Badger",
+    "target": "Richard Carstone",
+    "Chapter": 13,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Bayham Badger",
+    "target": "John Jarndyce",
+    "Chapter": 13,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Turveydrop",
+    "target": "Caddy Jellyby",
+    "Chapter": 14,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Turveydrop",
+    "target": "Esther Summerson",
+    "Chapter": 14,
+    "Narrator": "E"
+  },
+  {
+    "source": "Prince Turveydrop",
+    "target": "Caddy Jellyby",
+    "Chapter": 14,
+    "Narrator": "E"
+  },
+  {
+    "source": "Prince Turveydrop",
+    "target": "Esther Summerson",
+    "Chapter": 14,
+    "Narrator": "E"
+  },
+  {
+    "source": "Prince Turveydrop",
+    "target": "Mr. Turveydrop",
+    "Chapter": 14,
+    "Narrator": "E"
+  },
+  {
+    "source": "Miss Flite",
+    "target": "Allan Woodcourt",
+    "Chapter": 14,
+    "Narrator": "E"
+  },
+  {
+    "source": "Esther Summerson",
+    "target": "Allan Woodcourt",
+    "Chapter": 14,
+    "Narrator": "E"
+  },
+  {
+    "source": "Ada Clare",
+    "target": "Allan Woodcourt",
+    "Chapter": 14,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Jarndyce",
+    "target": "Allan Woodcourt",
+    "Chapter": 14,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Jarndyce",
+    "target": "Mr. Kengerook",
+    "Chapter": 14,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Quale",
+    "target": "Esther Summerson",
+    "Chapter": 15,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Quale",
+    "target": "Ada Clare",
+    "Chapter": 15,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Skimpole",
+    "target": "Lawrence Boythorn",
+    "Chapter": 15,
+    "Narrator": "E"
+  },
+  {
+    "source": "Charley",
+    "target": "Mr. Jarndyce",
+    "Chapter": 15,
+    "Narrator": "E"
+  },
+  {
+    "source": "Charley",
+    "target": "Ada Clare",
+    "Chapter": 15,
+    "Narrator": "E"
+  },
+  {
+    "source": "Charley",
+    "target": "Esther Summerson",
+    "Chapter": 15,
+    "Narrator": "E"
+  },
+  {
+    "source": "Charley",
+    "target": "Coavinses/Neckett",
+    "Chapter": 15,
+    "Narrator": "E"
+  },
+  {
+    "source": "Charley",
+    "target": "Mrs. Blinder",
+    "Chapter": 15,
+    "Narrator": "E"
+  },
+  {
+    "source": "Gridley",
+    "target": "Mrs. Blinder",
+    "Chapter": 15,
+    "Narrator": "E"
+  },
+  {
+    "source": "Gridley",
+    "target": "Mr. Jarndyce",
+    "Chapter": 15,
+    "Narrator": "E"
+  },
+  {
+    "source": "Gridley",
+    "target": "Ada Clare",
+    "Chapter": 15,
+    "Narrator": "E"
+  },
+  {
+    "source": "Gridley",
+    "target": "Esther Summerson",
+    "Chapter": 15,
+    "Narrator": "E"
+  },
+  {
+    "source": "Gridley",
+    "target": "Charley",
+    "Chapter": 15,
+    "Narrator": "E"
+  },
+  {
+    "source": "Gridley",
+    "target": "Mr. Tulkinghorn",
+    "Chapter": 16,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Jo",
+    "target": "Lady Dedlock",
+    "Chapter": 16,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mrs. Woodcourt",
+    "target": "Esther Summerson",
+    "Chapter": 17,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Woodcourt",
+    "target": "Allan Woodcourt",
+    "Chapter": 17,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Woodcourt",
+    "target": "Ada Clare",
+    "Chapter": 17,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lawrence Boythorn",
+    "target": "Sir Leicester Dedlock",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lawrence Boythorn",
+    "target": "Mrs. Rouncewell",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lawrence Boythorn",
+    "target": "Watt Rouncewell",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lady Dedlock",
+    "target": "Lawrence Boythorn",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lady Dedlock",
+    "target": "Esther Summerson",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lady Dedlock",
+    "target": "Ada Clare",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lady Dedlock",
+    "target": "Mr. Jarndyce",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Sir Leicester Dedlock",
+    "target": "Esther Summerson",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Sir Leicester Dedlock",
+    "target": "Ada Clare",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Sir Leicester Dedlock",
+    "target": "Mr. Jarndyce",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Hortense",
+    "target": "Esther Summerson",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Rosa",
+    "target": "Esther Summerson",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Ada Clare",
+    "target": "Hortense",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Ada Clare",
+    "target": "Rosa",
+    "Chapter": 18,
+    "Narrator": "E"
+  },
+  {
+    "source": "Rev Chadband",
+    "target": "Mr. Snagsby",
+    "Chapter": 19,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Rev Chadband",
+    "target": "Mrs. Snagsby",
+    "Chapter": 19,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mrs. Rachael/Mrs. Chadband",
+    "target": "Mr. Snagsby",
+    "Chapter": 19,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mrs. Rachael/Mrs. Chadband",
+    "target": "Mrs. Snagsby",
+    "Chapter": 19,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Rev Chadband",
+    "target": "Guster",
+    "Chapter": 19,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mrs. Rachael/Mrs. Chadband",
+    "target": "Guster",
+    "Chapter": 19,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Jo",
+    "target": "Guster",
+    "Chapter": 19,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Jo",
+    "target": "Mrs. Snagsby",
+    "Chapter": 19,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Jo",
+    "target": "Mr. Guppy",
+    "Chapter": 19,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Guppy",
+    "target": "Rev Chadband",
+    "Chapter": 19,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Guppy",
+    "target": "Mrs. Rachael/Mrs. Chadband",
+    "Chapter": 19,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Jo",
+    "target": "Rev Chadband",
+    "Chapter": 19,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Jo",
+    "target": "Mrs. Rachael/Mrs. Chadband",
+    "Chapter": 19,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Guppy",
+    "target": "Richard Carstone",
+    "Chapter": 20,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Guppy",
+    "target": "Jobling/Tony Weevle",
+    "Chapter": 20,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Young Smallweed",
+    "target": "Mr. Guppy",
+    "Chapter": 20,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Young Smallweed",
+    "target": "Jobling/Tony Weevle",
+    "Chapter": 20,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Kengerook",
+    "target": "Mr. Guppy",
+    "Chapter": 20,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Kengerook",
+    "target": "Jobling/Tony Weevle",
+    "Chapter": 20,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Grandfather Smallweed",
+    "target": "Grandmother Smallweed",
+    "Chapter": 21,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Grandfather Smallweed",
+    "target": "Judy Smallweed",
+    "Chapter": 21,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Grandfather Smallweed",
+    "target": "Charley",
+    "Chapter": 21,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Judy Smallweed",
+    "target": "Charley",
+    "Chapter": 21,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Grandmother Smallweed",
+    "target": "Charley",
+    "Chapter": 21,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Judy Smallweed",
+    "target": "Grandmother Smallweed",
+    "Chapter": 21,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Grandmother Smallweed",
+    "Chapter": 21,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Grandfather Smallweed",
+    "Chapter": 21,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Charley",
+    "Chapter": 21,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Judy Smallweed",
+    "Chapter": 21,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Nemo",
+    "Chapter": 21,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Phil Squod",
+    "Chapter": 21,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Mr. Tulkinghorn",
+    "Chapter": 22,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Mr. Snagsby",
+    "Chapter": 22,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Jenny",
+    "Chapter": 22,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Liz",
+    "Chapter": 22,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Snagsby",
+    "target": "Jenny",
+    "Chapter": 22,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Snagsby",
+    "target": "Liz",
+    "Chapter": 22,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Jo",
+    "target": "Hortense",
+    "Chapter": 22,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Bucket",
+    "target": "Hortense",
+    "Chapter": 22,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Snagsby",
+    "target": "Hortense",
+    "Chapter": 22,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Tulkinghorn",
+    "target": "Hortense",
+    "Chapter": 22,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Esther Summerson",
+    "Chapter": 24,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Richard Carstone",
+    "Chapter": 24,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Mr. Jarndyce",
+    "Chapter": 24,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Gridley",
+    "Chapter": 24,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Miss Flite",
+    "Chapter": 24,
+    "Narrator": "E"
+  },
+  {
+    "source": "Miss Flite",
+    "target": "Gridley",
+    "Chapter": 24,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Mr. Bucket",
+    "Chapter": 24,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Gridley",
+    "Chapter": 24,
+    "Narrator": "E"
+  },
+  {
+    "source": "Grandfather Smallweed",
+    "target": "Richard Carstone",
+    "Chapter": 26,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Tulkinghorn",
+    "target": "Grandfather Smallweed",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Judy Smallweed",
+    "target": "Mr. Tulkinghorn",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Mrs. Bagnet",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Mr. Bagnet",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mrs. Bagnet",
+    "target": "Mr. Bagnet",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Woolwich Bagnet",
+    "target": "Mr. George",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Woolwich Bagnet",
+    "target": "Mrs. Bagnet",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Woolwich Bagnet",
+    "target": "Mr. Bagnet",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Malta Bagnet",
+    "target": "Mrs. Bagnet",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Malta Bagnet",
+    "target": "Mr. Bagnet",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Malta Bagnet",
+    "target": "Mr. George",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Malta Bagnet",
+    "target": "Woolwich Bagnet",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Quebec Bagnet",
+    "target": "Mrs. Bagnet",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Quebec Bagnet",
+    "target": "Mr. Bagnet",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Quebec Bagnet",
+    "target": "Mr. George",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Quebec Bagnet",
+    "target": "Woolwich Bagnet",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Quebec Bagnet",
+    "target": "Malta Bagnet",
+    "Chapter": 27,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Sir Leicester Dedlock",
+    "target": "Volumnia Dedlock",
+    "Chapter": 28,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Lady Dedlock",
+    "target": "Volumnia Dedlock",
+    "Chapter": 28,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Rouncewell",
+    "target": "Sir Leicester Dedlock",
+    "Chapter": 28,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Rouncewell",
+    "target": "Lady Dedlock",
+    "Chapter": 28,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Rouncewell",
+    "target": "Rosa",
+    "Chapter": 28,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Guppy",
+    "target": "Lady Dedlock",
+    "Chapter": 29,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Prince Turveydrop",
+    "target": "Mr. Jellyby",
+    "Chapter": 30,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Prince Turveydrop",
+    "target": "Mrs. Jellyby",
+    "Chapter": 30,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Turveydrop",
+    "target": "Mr. Jellyby",
+    "Chapter": 30,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Turveydrop",
+    "target": "Mrs. Jellyby",
+    "Chapter": 30,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Charley",
+    "target": "Jenny",
+    "Chapter": 31,
+    "Narrator": "E"
+  },
+  {
+    "source": "Jo",
+    "target": "Charley",
+    "Chapter": 31,
+    "Narrator": "E"
+  },
+  {
+    "source": "Jo",
+    "target": "Esther Summerson",
+    "Chapter": 31,
+    "Narrator": "E"
+  },
+  {
+    "source": "Jo",
+    "target": "Jenny",
+    "Chapter": 31,
+    "Narrator": "E"
+  },
+  {
+    "source": "Charley",
+    "target": "Mr. Skimpole",
+    "Chapter": 31,
+    "Narrator": "E"
+  },
+  {
+    "source": "Jo",
+    "target": "Mr. Jarndyce",
+    "Chapter": 31,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Snagsby",
+    "target": "Jobling/Tony Weevle",
+    "Chapter": 32,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Snagsby",
+    "target": "Mr. Guppy",
+    "Chapter": 32,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Guppy",
+    "target": "Grandfather Smallweed",
+    "Chapter": 33,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Guppy",
+    "target": "Grandmother Smallweed",
+    "Chapter": 33,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Grandfather Smallweed",
+    "target": "Jobling/Tony Weevle",
+    "Chapter": 33,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Grandmother Smallweed",
+    "target": "Jobling/Tony Weevle",
+    "Chapter": 33,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Grandmother Smallweed",
+    "target": "Mr. Kengerook",
+    "Chapter": 33,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Guppy",
+    "target": "Sir Leicester Dedlock",
+    "Chapter": 33,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Phil Squod",
+    "target": "Mr. Bagnet",
+    "Chapter": 34,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Phil Squod",
+    "target": "Mrs. Bagnet",
+    "Chapter": 34,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Grandfather Smallweed",
+    "target": "Mr. Bagnet",
+    "Chapter": 34,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Judy Smallweed",
+    "target": "Mr. Bagnet",
+    "Chapter": 34,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Tulkinghorn",
+    "target": "Mr. Bagnet",
+    "Chapter": 34,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Vholes",
+    "target": "Mr. Skimpole",
+    "Chapter": 37,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Vholes",
+    "target": "Esther Summerson",
+    "Chapter": 37,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Vholes",
+    "target": "Ada Clare",
+    "Chapter": 37,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Vholes",
+    "target": "Richard Carstone",
+    "Chapter": 37,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Vholes",
+    "target": "Lawrence Boythorn",
+    "Chapter": 37,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Guppy",
+    "target": "Mr. Guppy",
+    "Chapter": 38,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Guppy",
+    "target": "Esther Summerson",
+    "Chapter": 38,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Guppy",
+    "target": "Caddy Jellyby",
+    "Chapter": 38,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Tulkinghorn",
+    "target": "Mr. Rouncewell",
+    "Chapter": 40,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Tulkinghorn",
+    "target": "Volumnia Dedlock",
+    "Chapter": 40,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Arethusa Skimpole",
+    "target": "Esther Summerson",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Laura Skimpole",
+    "target": "Esther Summerson",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Kitty Skimpole",
+    "target": "Esther Summerson",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Skimpole",
+    "target": "Esther Summerson",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Arethusa Skimpole",
+    "target": "Mr. Skimpole",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Laura Skimpole",
+    "target": "Mr. Skimpole",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Kitty Skimpole",
+    "target": "Mr. Skimpole",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Skimpole",
+    "target": "Mr. Skimpole",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Arethusa Skimpole",
+    "target": "Ada Clare",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Laura Skimpole",
+    "target": "Ada Clare",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Kitty Skimpole",
+    "target": "Ada Clare",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Skimpole",
+    "target": "Ada Clare",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Arethusa Skimpole",
+    "target": "Mr. Jarndyce",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Laura Skimpole",
+    "target": "Mr. Jarndyce",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Kitty Skimpole",
+    "target": "Mr. Jarndyce",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Skimpole",
+    "target": "Mr. Jarndyce",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Skimpole",
+    "target": "Sir Leicester Dedlock",
+    "Chapter": 43,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Vholes",
+    "target": "Mr. Jarndyce",
+    "Chapter": 45,
+    "Narrator": "E"
+  },
+  {
+    "source": "Allan Woodcourt",
+    "target": "Jenny",
+    "Chapter": 46,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Jo",
+    "Chapter": 47,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Allan Woodcourt",
+    "Chapter": 47,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Snagsby",
+    "target": "Allan Woodcourt",
+    "Chapter": 47,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mrs. Snagsby",
+    "target": "Allan Woodcourt",
+    "Chapter": 47,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Mrs. Bagnet",
+    "Chapter": 49,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Mr. Bagnet",
+    "Chapter": 49,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Woolwich Bagnet",
+    "Chapter": 49,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Quebec Bagnet",
+    "Chapter": 49,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Malta Bagnet",
+    "Chapter": 49,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Allan Woodcourt",
+    "target": "Mr. Vholes",
+    "Chapter": 51,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Mrs. Bucket",
+    "Chapter": 53,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Sir Leicester Dedlock",
+    "Chapter": 53,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Lady Dedlock",
+    "Chapter": 53,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Grandfather Smallweed",
+    "Chapter": 54,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Grandmother Smallweed",
+    "Chapter": 54,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Rev Chadband",
+    "Chapter": 54,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Mrs. Rachael/Mrs. Chadband",
+    "Chapter": 54,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Sir Leicester Dedlock",
+    "target": "Grandfather Smallweed",
+    "Chapter": 54,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Sir Leicester Dedlock",
+    "target": "Grandmother Smallweed",
+    "Chapter": 54,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Sir Leicester Dedlock",
+    "target": "Rev Chadband",
+    "Chapter": 54,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Sir Leicester Dedlock",
+    "target": "Mrs. Rachael/Mrs. Chadband",
+    "Chapter": 54,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Sir Leicester Dedlock",
+    "target": "Mr. Snagsby",
+    "Chapter": 54,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Sir Leicester Dedlock",
+    "target": "Mrs. Snagsby",
+    "Chapter": 54,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Mrs. Snagsby",
+    "Chapter": 54,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Hortense",
+    "target": "Mrs. Bucket",
+    "Chapter": 54,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mrs. Bagnet",
+    "target": "Mr. George",
+    "Chapter": 55,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mrs. Rouncewell",
+    "target": "Mr. George",
+    "Chapter": 55,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Mr. Jarndyce",
+    "Chapter": 56,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Esther Summerson",
+    "Chapter": 57,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Sir Leicester Dedlock",
+    "Chapter": 58,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Volumnia Dedlock",
+    "Chapter": 58,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Esther Summerson",
+    "target": "Guster",
+    "Chapter": 59,
+    "Narrator": "E"
+  },
+  {
+    "source": "Esther Summerson",
+    "target": "Mr. Snagsby",
+    "Chapter": 59,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Bucket",
+    "target": "Guster",
+    "Chapter": 59,
+    "Narrator": "E"
+  },
+  {
+    "source": "Allan Woodcourt",
+    "target": "Guster",
+    "Chapter": 59,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lady Dedlock",
+    "target": "Mr. Bucket",
+    "Chapter": 59,
+    "Narrator": "E"
+  },
+  {
+    "source": "Lady Dedlock",
+    "target": "Jenny",
+    "Chapter": 59,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Skimpole",
+    "target": "Mr. Bucket",
+    "Chapter": 61,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. Vholes",
+    "target": "Mr. Kenge",
+    "Chapter": 62,
+    "Narrator": "E"
+  },
+  {
+    "source": "Grandfather Smallweed",
+    "target": "Mr. Jarndyce",
+    "Chapter": 62,
+    "Narrator": "E"
+  },
+  {
+    "source": "Grandfather Smallweed",
+    "target": "Esther Summerson",
+    "Chapter": 62,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Mr. Rouncewell",
+    "Chapter": 63,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Mr. George",
+    "target": "Watt Rouncewell",
+    "Chapter": 63,
+    "Narrator": "3PN"
+  },
+  {
+    "source": "Jobling/Tony Weevle",
+    "target": "Mr. Jarndyce",
+    "Chapter": 64,
+    "Narrator": "E"
+  },
+  {
+    "source": "Jobling/Tony Weevle",
+    "target": "Esther Summerson",
+    "Chapter": 64,
+    "Narrator": "E"
+  },
+  {
+    "source": "Mrs. Guppy",
+    "target": "Jobling/Tony Weevle",
+    "Chapter": 64,
+    "Narrator": "E"
+  },
+  {
+    "source": "Allan Woodcourt",
+    "target": "Mr. Kenge",
+    "Chapter": 65,
+    "Narrator": "E"
+  }
+]
+}

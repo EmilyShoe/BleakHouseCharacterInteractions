@@ -1,0 +1,84 @@
+
+
+body {
+	font-family: 'Neuton', serif;
+	background-color: #2e2e2e;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-size: 36px;
+	color: #0077ad;
+	margin-top: 40px;
+}
+
+h2 {
+	color: #e765af;
+	font-size: 24px;
+	margin-top: 10px;
+}
+
+h3 {
+	color: #ffa600;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+label {
+	font-size: 16px;
+}
+
+text {
+	font-weight: bold;
+}
+
+.input-color {
+	position: relative;
+}
+.input-color .color-box {
+	width: 10px;
+	height: 10px;
+	display: inline-block;
+	background-color: #ccc;
+	position: absolute;
+	left: 7px;
+	top: 9px;
+}
+
+.legendTable td{
+	text-indent: 20px;
+	text-align: left;
+	border-right:1px solid white;
+	border-left:1px solid white;
+	margin-right: 5px;
+}
+
+#narrator {
+	border-right:1px solid white;
+	border-left:1px solid white;
+	border-top: 1px solid white;
+}
+
+#bottomLegend {
+	border-bottom: 1px solid white;
+}
+
+#chapter {
+	min-width: 10px;
+	align: center;
+}
+
+.tick text {
+	font-family: sans-serif;
+	font-size: 11px;
+	fill: #555;
+}
+
+svg {
+	width: 1000px;
+	height: 1000px;
+}
+
+
